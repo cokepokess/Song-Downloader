@@ -1,17 +1,17 @@
 {
-    "name": "Song-Downloader-Bot",
-    "description": "A BOT TO DOWNLOAD MUSIC FROM YOUTUBE.",
+    "name": "AdamHakliSong",
+    "description": "AdamHakliSongBot",
     "logo": "https://telegra.ph/file/745badebb188c6da28a67.jpg",
     "stack": "container",
     "keywords": [
         "song",
         "youtube",
         "Telegram",
-        "nazriya"
+        "cokepokess"
     ],
-    "website": "https://github.com/MR-JINN-OF-TG",
-    "repository": "https://github.com/MR-JINN-OF-TG/Song-Downloader",
-    "success_url": "https://t.me/NAZRIYASUPPORT",
+    "website": "https://github.com/cokepokess",
+    "repository": "https://github.com/cokepokess",
+    "success_url": "https://t.me/cokepokess",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
